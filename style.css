@@ -3,11 +3,12 @@ img {
   border: purple 2px dotted;;
 }
 body {
-  background color: wheat;
+  background-color: wheat;
 }
+
 h1 {
   color: salmon;
-  text-decoration: wavy 8px brown underlines;
+  text-decoration: wavy 8px brown underline;
   text-align: center;
 }
 h2 {
